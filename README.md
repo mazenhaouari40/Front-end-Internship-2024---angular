@@ -32,6 +32,8 @@ Using WebSocket technology, the application ensures that when a manager takes ac
 * Deployment Platform:  Render
 
 Backend link: https://github.com/mazenhaouari40/Back-end-internship2024-springboot
+
+
 You can also find a detailed highlight of this project at the following link:
 
 https://drive.google.com/file/d/13GEp0mbcqd95j613xTYJB711sSK9VfCV/view?usp=sharing
